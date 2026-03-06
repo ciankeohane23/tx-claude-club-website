@@ -8,9 +8,8 @@ export default function Hero() {
   UCC Claude Builders Club
 </h1>
         <p className="mt-6 max-w-2xl text-base leading-relaxed text-foreground/70 sm:mt-10 sm:text-lg md:text-xl">
-          Join a community of builders exploring, creating,
-          and shipping with Claude. Workshops, hackathons, and demos every month.
-        </p>
+  Join the UCC Claude Builders Club to learn AI development, build projects, and collaborate with students exploring the future of AI.
+</p>
 
         <div className="mt-8 flex flex-col gap-3 sm:mt-12 sm:flex-row sm:gap-5">
           <a
