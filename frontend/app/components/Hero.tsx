@@ -29,13 +29,13 @@ export default function Hero() {
 
       <div className="hidden flex-1 items-center justify-center md:flex">
         <Image
-          src="/images/hero_image.png"
-          alt="UT Austin AI Club illustration"
-          width={500}
-          height={500}
-          className="h-auto w-full max-w-md md:max-w-lg"
-          priority
-        />
+  src="/images/hero_image.png"
+  alt="UCC AI Club illustration"
+  width={700}
+  height={700}
+  className="h-auto w-full max-w-lg md:max-w-xl"
+  priority
+/>
       </div>
     </section>
   );
