@@ -12,9 +12,9 @@ export const metadata: Metadata = {
   title: "UCC Claude Builders Club",
   description:
     "University College Cork Claude Builders Club – Learn AI, build projects, and collaborate with students exploring the future of AI.",
-  icons: {
-    icon: "/images/favicon.png",
-  },
+icons: {
+  icon: "/images/claude_logo.svg",
+},
 };
 
 export default function RootLayout({
