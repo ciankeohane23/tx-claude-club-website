@@ -14,7 +14,7 @@ export default function Outreach() {
               href="mailto:claudebuildersclubucc@gmail.com"
               className="font-semibold text-primary underline transition-colors hover:text-primary-dark"
             >
-              claudeattexas@gmail.com
+              claudebuildersclubucc@gmail.com
             </a>
             .
           </p>
