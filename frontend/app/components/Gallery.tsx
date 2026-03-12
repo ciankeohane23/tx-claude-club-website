@@ -1,7 +1,8 @@
 const images = [
-  { src: "/images/claudeimg1.jpg", alt: "General meeting" },
+  { src: "/images/claudeimg2.jpg", alt: "General meeting" },
   { src: "/images/claudeimg3.jpg", alt: "Hackathon winners" },
   { src: "/images/claudeimg5.jpg", alt: "Tabling"},
+  { src: "/images/claudeimg4.jpg", alt: "Picture"},
 ];
 
 const scrollImages = [...images, ...images, ...images, ...images];
