@@ -9,9 +9,9 @@ export default function Outreach() {
             Partner With Us
           </h2>
           <p className="text-sm leading-relaxed text-foreground/70 sm:text-base md:text-lg">
-            Are you interested in partnering with Claude for your organization or an event around Austin? Reach out at{" "}
+            Are you interested in partnering with Claude for your organization or an event around Cork? Reach out at{" "}
             <a
-              href="mailto:claudeattexas@gmail.com"
+              href="mailto:claudebuildersclubucc@gmail.com"
               className="font-semibold text-primary underline transition-colors hover:text-primary-dark"
             >
               claudeattexas@gmail.com
